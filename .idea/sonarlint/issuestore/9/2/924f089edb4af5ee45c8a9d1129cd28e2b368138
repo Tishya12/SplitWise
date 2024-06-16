@@ -1,0 +1,21 @@
+
+h
+java:S1192"KDefine a constant instead of duplicating this literal "9876543210" 4 times.(—ˆ“8·ÁüŸı1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "User1" 4 times.(—ˆ“8·ÁüŸı1
+p
+java:S1192"SDefine a constant instead of duplicating this literal "gaurav@workat.tech" 4 times.(—ˆ“8·ÁüŸı1
+V
+java:S1854"9Remove this useless assignment to local variable "user4".(²È’÷8¹ÁüŸı1
+V
+java:S1854
+"9Remove this useless assignment to local variable "user3".(…ŸÙÅ8¹ÁüŸı1
+[
+java:S1854	"9Remove this useless assignment to local variable "user2".(ß©áˆûÿÿÿÿ8¹ÁüŸı1
+L
+java:S1481	"*Remove this unused "user2" local variable.(ß©áˆûÿÿÿÿ8ºÁüŸı1
+G
+java:S1481
+"*Remove this unused "user3" local variable.(…ŸÙÅ8»ÁüŸı1
+G
+java:S1481"*Remove this unused "user4" local variable.(²È’÷8»ÁüŸı1
